@@ -1,5 +1,173 @@
+body {
+  background-color: #282c34;
+}
+* {
+  list-style: none;
+  margin: 0;
+  text-decoration: none;
+  color: #e8e8e8 ;
+}
+
+.container {
+  padding: 5vh;
+}
+
+.img-title {
+  max-width: 60vw;
+}
+.cover-wrapper {
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-inline: 5vw;
+  gap: 3vw;
+
+}
+
+.cover-container{
+  position: relative;
+  box-shadow: 0 0 15px rgba(0,0,0,.1);
+}
+
+
+.cover-label {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+
+.cover-label::after
+.cover-label::before {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  display: block;
+  border: 5px solid #2980b9;
+}
+
+.cover-label span {
+  position: absolute;
+  display: block;
+  width: 225px;
+  padding: 5px 0;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+  color: #fff;
+  font: 400 18px/1 'Lato', sans-serif;
+  text-shadow: 0 2px 2px rgba(0,0,0,.2);
+  text-transform: uppercase;
+  text-align: center;
+  right: -10px;
+  top: 30px;
+  transform: rotate(-45deg);
+}
+
+
+.easy {
+  background-color: green;
+}
+.hard {
+  background-color: red;
+}
+.medium {
+  background-color: yellow;
+}
+
+.memotest-wrapper {
+  width: 100%;
+  height: 85vh;
+  max-height: 60vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;  
+  position:relative;
+}
+.memotest-card {
+  margin-bottom: 2vw;
+  max-height: 20vh;
+}
+
+.memotest-img-wrapper {
+  width: 18vw;
+}
+
+.memotest-img-wrapper img {
+  max-width: 18vw;
+  max-height: 15vw;
+  height: 150px;
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.win-card { 
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  background-color: black;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: blanchedalmond;
+  transition: 1s;
+  font-size: 30px;
+  z-index:99;
+}
+
+.win-card-hidden {
+  opacity: 0;
+  z-index: -1;
+}
+
+.btn-play-again {
+  background-color: blanchedalmond;
+  color: black;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 30px;
+  cursor:pointer;
+}
+
+.navbar {
+  background-color: black;
+  margin-bottom: 2vh;
+}
+
+.navbar ul {
+
+  margin-bottom: 2vh;
+  padding: 2vh
+}
+
+.navbar ul a {
+
+  font-size: 2rem;
+}
+
+.dinosaur {
+  border-radius: 15px;
+}
+
+.cover-img {
+  height: 190px;
+  border-radius: 15px;
+}
+
 .App {
   text-align: center;
+  width: auto;
+  height: auto;
 }
 
 .App-logo {
