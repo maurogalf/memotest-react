@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memotest-react/static/css/main.aa38b849.css",
-    "main.js": "/memotest-react/static/js/main.d35f58f9.js",
+    "main.js": "/memotest-react/static/js/main.2d4023a8.js",
     "static/media/logo.png": "/memotest-react/static/media/logo.f49108582d068a872489.png",
     "static/media/bulbasur.png": "/memotest-react/static/media/bulbasur.781856b55e5b998acb8e.png",
     "static/media/pokemonCover.jpg": "/memotest-react/static/media/pokemonCover.a7f49f9e0fb1b7775e16.jpg",
@@ -53,10 +53,10 @@
     "static/media/oliTitle.png": "/memotest-react/static/media/oliTitle.999fa089e76fabc3b95a.png",
     "index.html": "/memotest-react/index.html",
     "main.aa38b849.css.map": "/memotest-react/static/css/main.aa38b849.css.map",
-    "main.d35f58f9.js.map": "/memotest-react/static/js/main.d35f58f9.js.map"
+    "main.2d4023a8.js.map": "/memotest-react/static/js/main.2d4023a8.js.map"
   },
   "entrypoints": [
     "static/css/main.aa38b849.css",
-    "static/js/main.d35f58f9.js"
+    "static/js/main.2d4023a8.js"
   ]
 }
