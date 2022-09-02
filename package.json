@@ -1,5 +1,5 @@
 {
-  "name": "react-memotest",
+  "name": "memotest-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "classnames": "^2.3.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-card-flip": "^1.1.5",
     "react-dom": "^18.2.0",
