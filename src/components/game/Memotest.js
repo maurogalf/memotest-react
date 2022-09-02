@@ -26,7 +26,7 @@ const Carta = ({ name, src, flipped, onClick, flipedCard, topic }) => {
     return (
         <div className="memotest-card">
             <ReactCardFlip flipSpeedFrontToBack={0.3} flipSpeedBackToFront={0.3} isFlipped={!flipped}>
-                <div onClick={onClick} className="memotest-img-wrapper">
+                <div className="memotest-img-wrapper">
                     <img className={`memotest-img ${topic}`} src={src} alt={name} />
                 </div>
 
