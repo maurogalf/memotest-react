@@ -8,8 +8,15 @@ import princessCover from "../images/princess/princessCover.jpg";
 import lolCover from "../images/lol/lolCover.jpg";
 import marvelCover from "../images/marvel/marvelCover.jpg";
 import frozenCover from "../images/frozen/frozenCover.jpg";
+import englishNumbersCover from "../images/englishNumbers/englishNumbersCover.jpg";
 
 const topicObject = [
+    {
+        name: "englishnumbers",
+        url: "/englishnumbers",
+        level: "hard",
+        cover: englishNumbersCover,
+    },
     {
         name: "pokemon",
         url: "/pokemon",

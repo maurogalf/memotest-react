@@ -4,18 +4,22 @@ import { useState, useRef } from "react";
 const useMemotestGameState = (gameCards) => {
     const createShuffleCards = () => {
     let shuffledCards = [];
-    gameCards.map(({ name, src }) => {
-        shuffledCards.push({
-            name,
-            src,
-            key: `${name}-1`,
+    if (gameCards.length === 20) {
+        shuffledCards = gameCards;
+    } else {
+        gameCards.map(({ name, src }) => {
+            shuffledCards.push({
+                name,
+                src,
+                key: `${name}-1`,
+            });
+            shuffledCards.push({
+                name,
+                src,
+                key: `${name}-2`,
+            });
         });
-        shuffledCards.push({
-            name,
-            src,
-            key: `${name}-2`,
-        });
-    });
+    }
     shuffledCards.sort(() => 0.5 - Math.random());
     return shuffledCards;
 };

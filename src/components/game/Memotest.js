@@ -13,6 +13,7 @@ import topicPrincess from "../../topics/princess";
 import topicLol from "../../topics/lol";
 import topicMarvel from "../../topics/marvel";
 import topicFrozen from "../../topics/frozen";
+import topicEnglishNumbers from "../../topics/englishNumbers";
 
 const WinerCard = ({ show, restartGame, clickCount }) => {
     return (
@@ -79,6 +80,8 @@ const Memotest = ({ topicCards }) => {
         cards = topicMarvel;
     } else if (topicCards === "frozen") {
         cards = topicFrozen;
+    } else if (topicCards === "englishnumbers") {
+        cards = topicEnglishNumbers;
     }
 
     const gameCards = cards.cards;
