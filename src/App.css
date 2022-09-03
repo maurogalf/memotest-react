@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  padding: 5vh;
+  padding: 5vh 5vw;
 }
 
 .img-title {
@@ -139,6 +139,19 @@ body {
   cursor:pointer;
 }
 
+.btn-play-menu {
+  background-color: palevioletred;
+  color: black;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 30px;
+  cursor:pointer;
+}
+
 .navbar {
   background-color: black;
   margin-bottom: 2vh;
@@ -162,6 +175,7 @@ body {
 .cover-img {
   height: 190px;
   border-radius: 15px;
+  max-width: 85vw;
 }
 
 .App {
