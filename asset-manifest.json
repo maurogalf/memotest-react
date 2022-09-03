@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memotest-react/static/css/main.e8da0dab.css",
-    "main.js": "/memotest-react/static/js/main.dc8f08f8.js",
+    "main.js": "/memotest-react/static/js/main.0ff90758.js",
     "static/media/logo.png": "/memotest-react/static/media/logo.f49108582d068a872489.png",
     "static/media/bulbasur.png": "/memotest-react/static/media/bulbasur.781856b55e5b998acb8e.png",
     "static/media/pokemonCover.jpg": "/memotest-react/static/media/pokemonCover.a7f49f9e0fb1b7775e16.jpg",
@@ -13,7 +13,6 @@
     "static/media/sonic.png": "/memotest-react/static/media/sonic.5797e014aa522a771436.png",
     "static/media/chaos.png": "/memotest-react/static/media/chaos.7ff9cf6df757813ce950.png",
     "static/media/shadow.png": "/memotest-react/static/media/shadow.08c8c4b7a27c9d140d1a.png",
-    "static/media/lolCover.jpg": "/memotest-react/static/media/lolCover.89562ba76b615b856fe5.jpg",
     "static/media/towmater.png": "/memotest-react/static/media/towmater.5ba0aefd7b9b70aa7868.png",
     "static/media/marvelCover.jpg": "/memotest-react/static/media/marvelCover.23c077dc45dc5ab997cc.jpg",
     "static/media/sheriff.png": "/memotest-react/static/media/sheriff.2f6b315544dce779870d.png",
@@ -105,12 +104,13 @@
     "static/media/hulk.png": "/memotest-react/static/media/hulk.42a4ebe1ca4179cae294.png",
     "static/media/venom.png": "/memotest-react/static/media/venom.f6a7e80be86369993d59.png",
     "static/media/oliTitle.png": "/memotest-react/static/media/oliTitle.999fa089e76fabc3b95a.png",
+    "static/media/lolCover.jpg": "/memotest-react/static/media/lolCover.c0e63cb9972de145629c.jpg",
     "index.html": "/memotest-react/index.html",
     "main.e8da0dab.css.map": "/memotest-react/static/css/main.e8da0dab.css.map",
-    "main.dc8f08f8.js.map": "/memotest-react/static/js/main.dc8f08f8.js.map"
+    "main.0ff90758.js.map": "/memotest-react/static/js/main.0ff90758.js.map"
   },
   "entrypoints": [
     "static/css/main.e8da0dab.css",
-    "static/js/main.dc8f08f8.js"
+    "static/js/main.0ff90758.js"
   ]
 }
