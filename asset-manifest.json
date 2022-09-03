@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memotest-react/static/css/main.6af59f0a.css",
+    "main.css": "/memotest-react/static/css/main.e8da0dab.css",
     "main.js": "/memotest-react/static/js/main.dc8f08f8.js",
     "static/media/logo.png": "/memotest-react/static/media/logo.f49108582d068a872489.png",
     "static/media/bulbasur.png": "/memotest-react/static/media/bulbasur.781856b55e5b998acb8e.png",
@@ -106,11 +106,11 @@
     "static/media/venom.png": "/memotest-react/static/media/venom.f6a7e80be86369993d59.png",
     "static/media/oliTitle.png": "/memotest-react/static/media/oliTitle.999fa089e76fabc3b95a.png",
     "index.html": "/memotest-react/index.html",
-    "main.6af59f0a.css.map": "/memotest-react/static/css/main.6af59f0a.css.map",
+    "main.e8da0dab.css.map": "/memotest-react/static/css/main.e8da0dab.css.map",
     "main.dc8f08f8.js.map": "/memotest-react/static/js/main.dc8f08f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6af59f0a.css",
+    "static/css/main.e8da0dab.css",
     "static/js/main.dc8f08f8.js"
   ]
 }
