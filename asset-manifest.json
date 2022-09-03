@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memotest-react/static/css/main.e8da0dab.css",
-    "main.js": "/memotest-react/static/js/main.0ff90758.js",
+    "main.js": "/memotest-react/static/js/main.eb8f1af7.js",
     "static/media/logo.png": "/memotest-react/static/media/logo.f49108582d068a872489.png",
     "static/media/bulbasur.png": "/memotest-react/static/media/bulbasur.781856b55e5b998acb8e.png",
     "static/media/pokemonCover.jpg": "/memotest-react/static/media/pokemonCover.a7f49f9e0fb1b7775e16.jpg",
@@ -74,6 +74,7 @@
     "static/media/bella.png": "/memotest-react/static/media/bella.6752a030e120aff59e3c.png",
     "static/media/aurora.png": "/memotest-react/static/media/aurora.c7acd955ba0e23792e7f.png",
     "static/media/chikorita.png": "/memotest-react/static/media/chikorita.31684ccd7b7a28843ee1.png",
+    "static/media/englishNumbersCover.jpg": "/memotest-react/static/media/englishNumbersCover.0099cf026635288a8d67.jpg",
     "static/media/jazmine.png": "/memotest-react/static/media/jazmine.4069c0f4241f9fd99f49.png",
     "static/media/blancanieves.png": "/memotest-react/static/media/blancanieves.bdfa7a2242a81ef73088.png",
     "static/media/princessCover.jpg": "/memotest-react/static/media/princessCover.2c65ca9097442e5ceafe.jpg",
@@ -82,10 +83,14 @@
     "static/media/eggman.png": "/memotest-react/static/media/eggman.ed7658ed647eb5610b02.png",
     "static/media/litle.png": "/memotest-react/static/media/litle.e3a066651a426b600439.png",
     "static/media/coin.png": "/memotest-react/static/media/coin.2abf5024631ae302ca44.png",
+    "static/media/eight.png": "/memotest-react/static/media/eight.90c2d8bd618edad146b3.png",
+    "static/media/nine.png": "/memotest-react/static/media/nine.3001559d28a5ba8dd651.png",
+    "static/media/seven.png": "/memotest-react/static/media/seven.51cb4ada783aae568594.png",
     "static/media/ironman.png": "/memotest-react/static/media/ironman.538e8b7d728cce8dd771.png",
     "static/media/mew.png": "/memotest-react/static/media/mew.e08cab0d4d03defb838d.png",
     "static/media/frozenCover.jpg": "/memotest-react/static/media/frozenCover.3f47b73c59b55b7c9655.jpg",
     "static/media/sven.png": "/memotest-react/static/media/sven.26967637e5f028d7a628.png",
+    "static/media/three.png": "/memotest-react/static/media/three.2324b629555d5cf67b20.png",
     "static/media/mulan.png": "/memotest-react/static/media/mulan.90eaf9f57c0768ffce7c.png",
     "static/media/ryder.png": "/memotest-react/static/media/ryder.fadac41bbe534bcb533a.png",
     "static/media/woody.png": "/memotest-react/static/media/woody.89b127bf5ebdfefbc001.png",
@@ -96,21 +101,28 @@
     "static/media/spider.png": "/memotest-react/static/media/spider.87bb4511027abca89e02.png",
     "static/media/wolverine.png": "/memotest-react/static/media/wolverine.75da52d4b34a4d357810.png",
     "static/media/deadpool.png": "/memotest-react/static/media/deadpool.4146cf256a71c53633fc.png",
+    "static/media/ten.png": "/memotest-react/static/media/ten.bfb461d3e87257e7bc20.png",
     "static/media/pikachu.png": "/memotest-react/static/media/pikachu.6c94309028c267dd8403.png",
     "static/media/batman.png": "/memotest-react/static/media/batman.f72b1fdd6c4df7e3a433.png",
     "static/media/toystoryCover.webp": "/memotest-react/static/media/toystoryCover.2e013dad393258a46456.webp",
     "static/media/captain.png": "/memotest-react/static/media/captain.fd9f81d6b45e95baa356.png",
+    "static/media/one.png": "/memotest-react/static/media/one.8f712eb7270d6bccdf9d.png",
+    "static/media/six.png": "/memotest-react/static/media/six.84f6133932a05ac1c3d0.png",
     "static/media/flash.png": "/memotest-react/static/media/flash.f499ec7470c5d9704abe.png",
     "static/media/hulk.png": "/memotest-react/static/media/hulk.42a4ebe1ca4179cae294.png",
     "static/media/venom.png": "/memotest-react/static/media/venom.f6a7e80be86369993d59.png",
+    "static/media/five.png": "/memotest-react/static/media/five.afcd61011dad85cb75c1.png",
     "static/media/oliTitle.png": "/memotest-react/static/media/oliTitle.999fa089e76fabc3b95a.png",
+    "static/media/two.png": "/memotest-react/static/media/two.6bfa8e378ea1466032bc.png",
+    "static/media/four.png": "/memotest-react/static/media/four.5d0d68d8f4809dafc99f.png",
     "static/media/lolCover.jpg": "/memotest-react/static/media/lolCover.c0e63cb9972de145629c.jpg",
+    "static/media/seven1.png": "/memotest-react/static/media/seven1.dec01c4a1852a58199d8.png",
     "index.html": "/memotest-react/index.html",
     "main.e8da0dab.css.map": "/memotest-react/static/css/main.e8da0dab.css.map",
-    "main.0ff90758.js.map": "/memotest-react/static/js/main.0ff90758.js.map"
+    "main.eb8f1af7.js.map": "/memotest-react/static/js/main.eb8f1af7.js.map"
   },
   "entrypoints": [
     "static/css/main.e8da0dab.css",
-    "static/js/main.0ff90758.js"
+    "static/js/main.eb8f1af7.js"
   ]
 }
