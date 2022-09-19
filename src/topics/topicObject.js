@@ -9,74 +9,81 @@ import lolCover from "../images/lol/lolCover.jpg";
 import marvelCover from "../images/marvel/marvelCover.jpg";
 import frozenCover from "../images/frozen/frozenCover.jpg";
 import englishNumbersCover from "../images/englishNumbers/englishNumbersCover.jpg";
+import simpsonsCover from "../images/simpsons/simpsonsCover.jpg";
 
 const topicObject = [
-    {
-        name: "englishnumbers",
-        url: "/englishnumbers",
-        level: "hard",
-        cover: englishNumbersCover,
-    },
-    {
-        name: "pokemon",
-        url: "/pokemon",
-        level: "easy",
-        cover: pokemonCover,
-    },
-    {
-        name: "pawpatrol",
-        url: "/pawpatrol",
-        level: "medium",
-        cover: pawPatrolCover,
-    },
-    {
-        name: "dinosaur",
-        url: "/dinosaur",
-        level: "hard",
-        cover: dinosaurCover,
-    },
-    {
-        name: "frozen",
-        url: "/frozen",
-        level: "easy",
-        cover: frozenCover,
-    },
-    {
-        name: "princess",
-        url: "/princess",
-        level: "hard",
-        cover: princessCover,
-    },
-    {
-        name: "sonic",
-        url: "/sonic",
-        level: "medium",
-        cover: sonicCover,
-    },
-    {
-        name: "toystory",
-        url: "/toystory",
-        level: "easy",
-        cover: toystoryCover,
-    },
-    {
-        name: "cars",
-        url: "/cars",
-        level: "medium",
-        cover: carsCover,
-    },
-    {
-        name: "lol",
-        url: "/lol",
-        level: "hard",
-        cover: lolCover,
-    },
-    {
-        name: "marvel",
-        url: "/marvel",
-        level: "easy",
-        cover: marvelCover,
-    },
+  {
+    name: "simpsons",
+    url: "/simpsons",
+    level: "easy",
+    cover: simpsonsCover,
+  },
+  {
+    name: "englishnumbers",
+    url: "/englishnumbers",
+    level: "hard",
+    cover: englishNumbersCover,
+  },
+  {
+    name: "pokemon",
+    url: "/pokemon",
+    level: "easy",
+    cover: pokemonCover,
+  },
+  {
+    name: "pawpatrol",
+    url: "/pawpatrol",
+    level: "medium",
+    cover: pawPatrolCover,
+  },
+  {
+    name: "dinosaur",
+    url: "/dinosaur",
+    level: "hard",
+    cover: dinosaurCover,
+  },
+  {
+    name: "frozen",
+    url: "/frozen",
+    level: "easy",
+    cover: frozenCover,
+  },
+  {
+    name: "princess",
+    url: "/princess",
+    level: "hard",
+    cover: princessCover,
+  },
+  {
+    name: "sonic",
+    url: "/sonic",
+    level: "medium",
+    cover: sonicCover,
+  },
+  {
+    name: "toystory",
+    url: "/toystory",
+    level: "easy",
+    cover: toystoryCover,
+  },
+  {
+    name: "cars",
+    url: "/cars",
+    level: "medium",
+    cover: carsCover,
+  },
+  {
+    name: "lol",
+    url: "/lol",
+    level: "hard",
+    cover: lolCover,
+  },
+  {
+    name: "marvel",
+    url: "/marvel",
+    level: "easy",
+    cover: marvelCover,
+  },
 ];
 
 export default topicObject;
