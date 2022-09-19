@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memotest-react/static/css/main.e8da0dab.css",
-    "main.js": "/memotest-react/static/js/main.eb8f1af7.js",
+    "main.css": "/memotest-react/static/css/main.d915f55f.css",
+    "main.js": "/memotest-react/static/js/main.07fc8ffd.js",
     "static/media/logo.png": "/memotest-react/static/media/logo.f49108582d068a872489.png",
     "static/media/bulbasur.png": "/memotest-react/static/media/bulbasur.781856b55e5b998acb8e.png",
     "static/media/pokemonCover.jpg": "/memotest-react/static/media/pokemonCover.a7f49f9e0fb1b7775e16.jpg",
@@ -50,6 +50,7 @@
     "static/media/pokeball.png": "/memotest-react/static/media/pokeball.32d7036b771b4f36ba0b.png",
     "static/media/rubble.png": "/memotest-react/static/media/rubble.879eb2e4c59034300a7d.png",
     "static/media/pig.png": "/memotest-react/static/media/pig.c3afaef0f2ac9dd34405.png",
+    "static/media/simpsonsCover.jpg": "/memotest-react/static/media/simpsonsCover.21c32e669980e6bca970.jpg",
     "static/media/sayayin.png": "/memotest-react/static/media/sayayin.9cf0eb5b65d3394a3eb5.png",
     "static/media/england.webp": "/memotest-react/static/media/england.a35012e000a0be75e375.webp",
     "static/media/bruni.png": "/memotest-react/static/media/bruni.9c5be6179ee1c3b38ddd.png",
@@ -78,6 +79,7 @@
     "static/media/jazmine.png": "/memotest-react/static/media/jazmine.4069c0f4241f9fd99f49.png",
     "static/media/blancanieves.png": "/memotest-react/static/media/blancanieves.bdfa7a2242a81ef73088.png",
     "static/media/princessCover.jpg": "/memotest-react/static/media/princessCover.2c65ca9097442e5ceafe.jpg",
+    "static/media/lisa.png": "/memotest-react/static/media/lisa.5b9962f0a444c5700f4b.png",
     "static/media/zurg.png": "/memotest-react/static/media/zurg.165be276e230b03dd79c.png",
     "static/media/chameleon.png": "/memotest-react/static/media/chameleon.a9310d2ebb2f0c77bfe3.png",
     "static/media/eggman.png": "/memotest-react/static/media/eggman.ed7658ed647eb5610b02.png",
@@ -92,8 +94,11 @@
     "static/media/sven.png": "/memotest-react/static/media/sven.26967637e5f028d7a628.png",
     "static/media/three.png": "/memotest-react/static/media/three.2324b629555d5cf67b20.png",
     "static/media/mulan.png": "/memotest-react/static/media/mulan.90eaf9f57c0768ffce7c.png",
+    "static/media/milhouse.png": "/memotest-react/static/media/milhouse.c8de3fd0d2c59c53d71a.png",
     "static/media/ryder.png": "/memotest-react/static/media/ryder.fadac41bbe534bcb533a.png",
+    "static/media/homer.png": "/memotest-react/static/media/homer.00f3189309aca259214e.png",
     "static/media/woody.png": "/memotest-react/static/media/woody.89b127bf5ebdfefbc001.png",
+    "static/media/flanders.png": "/memotest-react/static/media/flanders.cf85bbe805f9881e0131.png",
     "static/media/jessie.png": "/memotest-react/static/media/jessie.6a7d6b79c5f0753a1133.png",
     "static/media/pawPatrolCover.jpg": "/memotest-react/static/media/pawPatrolCover.2f28d656001d403ebbe4.jpg",
     "static/media/sandshrew.png": "/memotest-react/static/media/sandshrew.be8fa7b7bbf9756ab9f1.png",
@@ -112,17 +117,23 @@
     "static/media/hulk.png": "/memotest-react/static/media/hulk.42a4ebe1ca4179cae294.png",
     "static/media/venom.png": "/memotest-react/static/media/venom.f6a7e80be86369993d59.png",
     "static/media/five.png": "/memotest-react/static/media/five.afcd61011dad85cb75c1.png",
+    "static/media/ralph.webp": "/memotest-react/static/media/ralph.eac22231340f61f7bef0.webp",
+    "static/media/maggie.webp": "/memotest-react/static/media/maggie.d78542886cf73da91caf.webp",
+    "static/media/burns.webp": "/memotest-react/static/media/burns.a632a5f8461588b571fd.webp",
+    "static/media/bart.png": "/memotest-react/static/media/bart.c59032895f6abfee53b7.png",
     "static/media/oliTitle.png": "/memotest-react/static/media/oliTitle.999fa089e76fabc3b95a.png",
+    "static/media/moe.webp": "/memotest-react/static/media/moe.60f2f1ae9cf758120871.webp",
     "static/media/two.png": "/memotest-react/static/media/two.6bfa8e378ea1466032bc.png",
     "static/media/four.png": "/memotest-react/static/media/four.5d0d68d8f4809dafc99f.png",
+    "static/media/marge.webp": "/memotest-react/static/media/marge.c7b6cf32496d59473029.webp",
     "static/media/lolCover.jpg": "/memotest-react/static/media/lolCover.c0e63cb9972de145629c.jpg",
     "static/media/seven1.png": "/memotest-react/static/media/seven1.dec01c4a1852a58199d8.png",
     "index.html": "/memotest-react/index.html",
-    "main.e8da0dab.css.map": "/memotest-react/static/css/main.e8da0dab.css.map",
-    "main.eb8f1af7.js.map": "/memotest-react/static/js/main.eb8f1af7.js.map"
+    "main.d915f55f.css.map": "/memotest-react/static/css/main.d915f55f.css.map",
+    "main.07fc8ffd.js.map": "/memotest-react/static/js/main.07fc8ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8da0dab.css",
-    "static/js/main.eb8f1af7.js"
+    "static/css/main.d915f55f.css",
+    "static/js/main.07fc8ffd.js"
   ]
 }
